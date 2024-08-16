@@ -1,0 +1,42 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+}
+
+footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.hero {
+    background-color: #e9ecef;
+    padding: 2rem 0;
+}
+
+.mission-vision {
+    padding: 2rem 0;
+}
+
+main {
+    padding: 2rem 0;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#map {
+    height: 300px;
+    width: 100%;
+    background-color: #e9ecef;
+}
